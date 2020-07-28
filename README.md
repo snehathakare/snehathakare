@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 Currently I am working on upgrading my tech stack
+### Deep diving in to React Js and Node :swimmer: :rocket: :computer: :fire:
+<img src="https://github.com/snehathakare/snehathakare/blob/master/Sneha.png" alt="" />
 
 <!--
 **snehathakare/snehathakare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
