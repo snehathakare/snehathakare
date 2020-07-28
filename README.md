@@ -1,5 +1,5 @@
-### Hi there 👋 Currently I am working on upgrading my tech stack
-### Deep diving in to React Js and Node :swimmer: :rocket: :computer: :fire:
+###                                     Hi there 👋 Currently I am taking some time off and working on upgrading my tech stack
+###                                           Deep diving in to React Js and Node :swimmer: :rocket: :computer: :fire:
 <img src="https://github.com/snehathakare/snehathakare/blob/master/Sneha.png" alt="" />
 
 <!--
