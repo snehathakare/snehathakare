@@ -1,18 +1,20 @@
 
-<img src="https://github.com/snehathakare/snehathakare/blob/master/Sneha.png" alt="" />
+- Who am I: <strong>Fullstack Developer (Ruby on Rails and ReactJS)</strong>
+- I’m currently working on ReactJS
+- I’m currently learning Node and Express Js
+- I’m looking to collaborate on MERN stack
+- Let's connect: Drop a mail at snhthakare@gmail.com
+- How to find me: 
+  -  [Medium](https://medium.com/@snhthakare)
+  -  [LinkedIn](https://www.linkedin.com/in/snehathakare/)
 
-<!--
-**snehathakare/snehathakare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehathakare)](https://github.com/snehathakare/github-readme-stats)
 
-Here are some ideas to get you started:
+<h3>My Recent Medium Articles</h3>
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@snhthakare/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@snhthakare/0" alt="Recent Article 0"> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@snhthakare/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@snhthakare/1" alt="Recent Article 1"> 
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@snhthakare/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@snhthakare/2" alt="Recent Article 2"> 
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@snhthakare/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@snhthakare/3" alt="Recent Article 3">   
