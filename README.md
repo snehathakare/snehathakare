@@ -1,7 +1,7 @@
 
 - Who am I: <strong>Fullstack Developer (Ruby on Rails and ReactJS)</strong>
 - I’m currently working on ReactJS
-- I’m currently learning Node and Express Js
+- I’m currently deep diving into Blockchain technologies (Solidity,Truffle, Web3js etc)
 - I’m looking to collaborate on MERN stack
 - Let's connect: Drop a mail at snhthakare@gmail.com
 - How to find me: 
