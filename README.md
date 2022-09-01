@@ -1,8 +1,8 @@
 
 - Who am I: <strong>Fullstack Developer (Ruby on Rails and ReactJS)</strong>
 - I’m currently working on ReactJS
-- I’m currently deep diving into Blockchain technologies (Solidity,Truffle, Web3js etc)
-- I’m looking to collaborate as a FrontEnd Dev on Web3 projects
+- I’m currently deep diving into JS technologies
+- I’m looking to collaborate as a FrontEnd Dev on interesting projects
 - Let's connect: Drop a mail at snhthakare@gmail.com
 - How to find me: 
   -  [Medium](https://medium.com/@snhthakare)
