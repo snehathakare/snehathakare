@@ -1,6 +1,6 @@
 
 - Who am I: <strong>Fullstack Developer (Ruby on Rails and ReactJS)</strong>
-- I’m currently working on ReactJS
+- I’m currently working on ReactJS, NextJs, Typescript
 - I’m currently deep diving into JS technologies
 - I’m looking to collaborate as a FrontEnd Dev on interesting projects
 - Let's connect: Drop a mail at snhthakare@gmail.com
